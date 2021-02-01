@@ -1,0 +1,24 @@
+=== Started 2021-02-01T00-42-03-869 ===
+[WARN ][00:42:03] Config not found... Generating new config
+[INFO ][00:42:03] 418 bad words loaded
+[WARN ][00:42:03] User account "Local Administrator" disabled
+[WARN ][00:42:03] User account "Local Moderator" disabled
+[WARN ][00:42:03] User account "Local User" disabled
+[INFO ][00:42:03] 0 user records loaded.
+[WARN ][00:42:03] ../src/ipbanlist.txt is missing.
+[INFO ][00:42:03] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][00:42:03] WebSocket: ws
+[INFO ][00:42:03] Started stats server on port 88
+[INFO ][00:42:03] Listening on port 8000
+[INFO ][00:42:03] Current game mode is Free For All
+[NONE ][00:42:03]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][00:43:36] CONNECTED 127.0.0.1:10939, origin: "https://agario.fun"
+[NONE ][00:49:09] DISCONNECTED 127.0.0.1:10939, code: 1000, reason: "Connection timeout", name: "An unnamed cell"
+[NONE ][00:49:10] CONNECTED 127.0.0.1:11090, origin: "https://agario.fun"
+[NONE ][00:54:10] DISCONNECTED 127.0.0.1:11090, code: 1000, reason: "Connection timeout", name: ""
+[NONE ][00:54:11] CONNECTED 127.0.0.1:11150, origin: "https://agario.fun"
